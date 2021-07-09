@@ -1,0 +1,13 @@
+.logo img{
+    margin-left: 50px;
+    width: 250px;
+}
+.main-logo{
+    background-color:rgb(255, 251, 244)
+}
+.categories{
+    height: 150px;
+}
+.categories img{
+    width: 100px;
+}
